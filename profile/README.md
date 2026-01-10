@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NoxSuil</h1>
-<h3 align="center">Middle school developer. developing "web/bash".</h3>
+<h3 align="center">Middle school developer. developing web/bash.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noxsuil&label=Profile%20views&color=000000&style=flat" alt="noxsuil" /> </p>
 
