@@ -17,5 +17,4 @@
 
 ### ⚡️fun fact:
 ![95414](https://github.com/user-attachments/assets/01905fca-5d7d-4dd7-9d43-4630e80de4a8)
-not joke. f#$&k
-
+fuck... 
