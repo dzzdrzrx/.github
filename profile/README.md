@@ -1,10 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=fff&height=300&section=header&text=dzzdrzrx&fontSize=130)
-<h3 align="center">Middle school developer developing web/bash.</h3>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=dzzdrzrx&fontSize=130)
+<h3 align="center">Web/app/Bash devs.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dzzdrzrx&label=Profile%20views&color=000000&style=flat" alt="촉촉하게 만들어주지" /> </p>
 
-- 📫 How to reach me **wjsdudgo11313@gmail.com**
-
+- 📫 How to reach me
+- **wjsdudgo11313@gmail.com**
+- discord id:**dzzdrzrx**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/channel/UCmnO0QvlULRFW9uSg-ADm-A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="noxsuil" height="30" width="40" /></a>
@@ -33,9 +35,9 @@
 
 <img src="https://img.shields.io/badge/replit-F26207?style=flat-square&logo=replit&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 
   <img src="https://img.shields.io/badge/gnubash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
-
 
 
 </p>
