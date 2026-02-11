@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=fff&height=300&section=header&text=dzzdrzrx&fontSize=130)
 <h3 align="center">Middle school developer developing web/bash.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noxsuil&label=Profile%20views&color=000000&style=flat" alt="noxsuil" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dzzdrzrx&label=Profile%20views&color=000000&style=flat" alt="촉촉하게 만들어주지" /> </p>
 
 - 📫 How to reach me **wjsdudgo11313@gmail.com**
 
