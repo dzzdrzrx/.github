@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Vəx̌øX̌&fontSize=150)
-<h3 align="center">Web/(not)app/Bash devs.</h3>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=NoxSuil&fontSize=150)
+<h3 align="center">Web/app devs.</h3>
 
 <hr>
 
