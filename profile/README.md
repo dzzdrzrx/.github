@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=NoxSuil&fontSize=150)
-<h3 align="center">Web/app devs.</h3>
-
+<h3 align="center">Web/app/devs.</h3>
+<p align="center">Hello. I'm a Korean developer in my third year of middle school. I primarily work on web and app development, as well as Korean translations. I'll post where I app translated them on my website.</p>
 <hr>
 
 - 📫 How to reach me
@@ -32,8 +32,6 @@
 <img src="https://img.shields.io/badge/kodular-4527A0?style=flat-square&logo=kodular&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/replit-F26207?style=flat-square&logo=replit&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 
   <img src="https://img.shields.io/badge/gnubash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
 
