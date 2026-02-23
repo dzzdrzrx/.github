@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=NoxSuil&fontSize=150)
+![header](https://capsule-render.vercel.app/api?type=waving&auto=random&height=300&section=header&text=dzzdrzrx&fontSize=150)
 <h3 align="center">Web/app/devs.</h3>
 <p align="center">Hello. I'm a Korean developer in my third year of middle school. I primarily work on web and app development, as well as Korean translations. I'll post where I app translated them on my website.</p>
 <hr>
