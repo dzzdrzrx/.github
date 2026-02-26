@@ -5,6 +5,9 @@
 
 - 📫 How to reach me
 - **wjsdudgo11313@gmail.com**
+- Whether you advertise or sponsor, send it as you see fit. If you send it as a joke, you will be blocked!
+- discord dm:none_iddms(real dm id)
+- If you send it as a joke, you will be blocked!!!
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
