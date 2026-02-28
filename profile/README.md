@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=198cff&height=300&section=header&text=darkluto&fontSize=150)
+![header](https://capsule-render.vercel.app/api?type=waving&color=198cff&height=300&section=header&text=windDarkTaily&fontSize=110)
 <h3 align="center">Web/app/devs.</h3>
 <p align="center">more...</p>
 <hr>
@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/channel/UCmnO0QvlULRFW9uSg-ADm-A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="noxsuil" height="30" width="40" /></a>
-  <br><br><a href="https://darkluto1.github.io/">HomePage</a>
+  <br><br><a href="https://windDarkTaily.github.io/">HomePage</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
