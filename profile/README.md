@@ -23,11 +23,9 @@
 
 <img src="https://img.shields.io/badge/neovim-57A143?style=flat-square&logo=neovim&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/xfce-2284F2?style=flat-square&logo=xfce&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/kodular-4527A0?style=flat-square&logo=kodular&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/replit-F26207?style=flat-square&logo=replit&logoColor=white"/>
+<img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
 
   <img src="https://img.shields.io/badge/gnubash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
 
