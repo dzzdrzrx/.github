@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=blur&height=200&color=198cff&text=windDarkTaily&reversal=true&fontSize=70&fontAlignY=50&fontColor=fff&desc=web/app/bash%20devs&descAlignY=67&descSize=30&textBg=false)
+![header](https://capsule-render.vercel.app/api?type=blur&height=200&color=198cff&text=windDarkTaily&reversal=true&fontSize=70&fontAlignY=50&fontColor=auto&desc=web/app/bash%20devs&descAlignY=67&descSize=30&textBg=false)
 <hr>
 
 - 📫 How to reach me
