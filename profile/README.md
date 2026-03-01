@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=198cff&height=300&section=header&text=windDarkTaily&fontSize=110)
-<h3 align="center">Web/app/devs.</h3>
-<p align="center">more...</p>
+![header](https://capsule-render.vercel.app/api?type=blur&height=200&color=198cff&text=windDarkTaily&reversal=true&fontSize=70&fontAlignY=50&fontColor=fff&desc=web/app/bash%20devs&descAlignY=67&descSize=30&textBg=false)
 <hr>
 
 - 📫 How to reach me
